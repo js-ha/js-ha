@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=js-ha)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Jisu%20Ha)
 
 ####  :wave: Welcome my github profile !
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
