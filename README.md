@@ -23,11 +23,20 @@
 
 
 <div>
-<br>
+
+
+
 
 ![js-ha's github stats](https://github-readme-stats.vercel.app/api?username=js-ha&show_icons=true)
 
 
+</div>
+
+<div>
+
+
+ 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsha2022)](https://github.com/jsha2022/velog-readme-stats)
 </div>
 
 </div>
