@@ -36,7 +36,7 @@
 
 
  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsha2022)](https://github.com/jsha2022/velog-readme-stats)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsha2022)](https://github.com/@jsha2022/velog-readme-stats)
 </div>
 
 </div>
