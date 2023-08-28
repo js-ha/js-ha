@@ -34,11 +34,7 @@
 
 </div>
 
-<div>
 
-
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsha2022&color=white)](https://velog.io/@jsha2022)
-</div>
 
 </div>
 </div>
